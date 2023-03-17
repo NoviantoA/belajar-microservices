@@ -1,0 +1,10 @@
+novianto\anggoro\product\service\model\Product.class
+novianto\anggoro\product\service\dto\ProductRequest$ProductRequestBuilder.class
+novianto\anggoro\product\service\dto\ProductResponse$ProductResponseBuilder.class
+novianto\anggoro\product\service\dto\ProductRequest.class
+novianto\anggoro\product\service\service\ProductService.class
+novianto\anggoro\product\service\model\Product$ProductBuilder.class
+novianto\anggoro\product\service\ProductServiceApplication.class
+novianto\anggoro\product\service\repository\ProductRepository.class
+novianto\anggoro\product\service\controller\ProductController.class
+novianto\anggoro\product\service\dto\ProductResponse.class

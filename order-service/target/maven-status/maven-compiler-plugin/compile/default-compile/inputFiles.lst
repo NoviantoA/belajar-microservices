@@ -1,0 +1,10 @@
+E:\Development\Spring\belajar-microservices\order-service\src\main\java\novianto\anggoro\order\service\config\WebClientConfig.java
+E:\Development\Spring\belajar-microservices\order-service\src\main\java\novianto\anggoro\order\service\controller\OrderController.java
+E:\Development\Spring\belajar-microservices\order-service\src\main\java\novianto\anggoro\order\service\dto\OrderRequest.java
+E:\Development\Spring\belajar-microservices\order-service\src\main\java\novianto\anggoro\order\service\model\OrderLineItem.java
+E:\Development\Spring\belajar-microservices\order-service\src\main\java\novianto\anggoro\order\service\OrderServiceApplication.java
+E:\Development\Spring\belajar-microservices\order-service\src\main\java\novianto\anggoro\order\service\model\Order.java
+E:\Development\Spring\belajar-microservices\order-service\src\main\java\novianto\anggoro\order\service\dto\InventoryResponse.java
+E:\Development\Spring\belajar-microservices\order-service\src\main\java\novianto\anggoro\order\service\dto\OrderLineItemDto.java
+E:\Development\Spring\belajar-microservices\order-service\src\main\java\novianto\anggoro\order\service\repository\OrderRepository.java
+E:\Development\Spring\belajar-microservices\order-service\src\main\java\novianto\anggoro\order\service\service\OrderService.java

@@ -1,0 +1,11 @@
+novianto\anggoro\order\service\service\OrderService.class
+novianto\anggoro\order\service\OrderServiceApplication.class
+novianto\anggoro\order\service\dto\OrderRequest.class
+novianto\anggoro\order\service\controller\OrderController.class
+novianto\anggoro\order\service\dto\InventoryResponse$InventoryResponseBuilder.class
+novianto\anggoro\order\service\repository\OrderRepository.class
+novianto\anggoro\order\service\model\OrderLineItem.class
+novianto\anggoro\order\service\dto\InventoryResponse.class
+novianto\anggoro\order\service\dto\OrderLineItemDto.class
+novianto\anggoro\order\service\config\WebClientConfig.class
+novianto\anggoro\order\service\model\Order.class

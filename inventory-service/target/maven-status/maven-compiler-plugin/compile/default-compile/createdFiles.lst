@@ -1,0 +1,7 @@
+novianto\anggoro\inventory\service\InventoryServiceApplication.class
+novianto\anggoro\inventory\service\dto\InventoryResponse.class
+novianto\anggoro\inventory\service\repository\InventoryRepository.class
+novianto\anggoro\inventory\service\controller\InventoryController.class
+novianto\anggoro\inventory\service\dto\InventoryResponse$InventoryResponseBuilder.class
+novianto\anggoro\inventory\service\service\InventoryService.class
+novianto\anggoro\inventory\service\model\Inventory.class
