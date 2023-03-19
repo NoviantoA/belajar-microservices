@@ -33,3 +33,7 @@ Setting port keycloak ke port lain kecuali port (8080, 8081, 8761) karena telah 
 
 #### Check Actuator
     http://localhost:8081/actuator
+#### Start Zipkin
+    docker run -d -p 9411:9411 openzipkin/zipkin
+#### Open Zipkin
+    http://localhost:9411/zipkin
