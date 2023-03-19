@@ -26,7 +26,7 @@ public class OrderService {
 
     private final OrderRepository orderRepository;
     private final WebClient.Builder webClientBuilder;
-    private final brave.Tracer tracer;
+    private final Tracer tracer;
 
     public String placeOrder(OrderRequest orderRequest){
         Order order = new Order();
