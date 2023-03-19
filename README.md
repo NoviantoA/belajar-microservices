@@ -30,3 +30,6 @@ Setting port keycloak ke port lain kecuali port (8080, 8081, 8761) karena telah 
 > Scope : openid offline_access
 > 
 > Client Authentication : Send as Basic Auth header
+
+#### Check Actuator
+    http://localhost:8081/actuator
