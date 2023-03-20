@@ -37,3 +37,7 @@ Setting port keycloak ke port lain kecuali port (8080, 8081, 8761) karena telah 
     docker run -d -p 9411:9411 openzipkin/zipkin
 #### Open Zipkin
     http://localhost:9411/zipkin
+#### Start the Kafka broker
+    docker compose up -d
+#### Verify Logs Kafka
+    docker logs -f broker 
